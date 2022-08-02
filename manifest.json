@@ -1,0 +1,7 @@
+{
+  "name": "dabin_blog",
+  "short_name": "blog",
+  "version": "1.0.0",
+  "description": "非科班转码，专注Java后端技术分享",
+  "manifest_version": 1
+}

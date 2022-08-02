@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /assets/js
+
+https://www.topjavaer.cn/sitemap.xml
